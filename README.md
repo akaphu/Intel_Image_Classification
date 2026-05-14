@@ -49,6 +49,7 @@ Ngoài phần huấn luyện và đánh giá mô hình, dự án còn có **demo
 - [Nhận xét chính](#nhận-xét-chính)
 - [Hạn chế](#hạn-chế)
 - [Hướng phát triển](#hướng-phát-triển)
+- [Tác giả](#tác-giả).
 
 ---
 
@@ -993,4 +994,10 @@ Dự án so sánh hai hướng tiếp cận: mô hình Machine Learning truyền
 
 Bên cạnh accuracy, dự án còn có phần phân tích lỗi bằng per-class metrics, confusion matrix, top confused pairs, misclassified examples và Grad-CAM. Ngoài ra, notebook 09 bổ sung Gradio demo, giúp kiểm thử mô hình trực tiếp trên ảnh mới và tăng tính ứng dụng cho đồ án.
 
-Dự án phù hợp để trình bày trong báo cáo học thuật, slide thuyết trình và GitHub portfolio.
+Dự án phù hợp để trình bày trong báo cáo học thuật, slide thuyết trình và GitHub portfolio. 
+
+## Tác giả 
+Dự án được xây dựng phục vụ mục đích học tập, thực nghiệm xử lý ảnh và so sánh các mô hình phân loại hình ảnh.
+
+Họ tên: Nguyễn Văn Phú
+MSSV: 23521187
